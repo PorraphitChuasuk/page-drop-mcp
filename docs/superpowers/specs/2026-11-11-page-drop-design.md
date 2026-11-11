@@ -171,8 +171,8 @@ answers and restarts it if not.
   `SECRET_DROP_NOTIFY`. Without it, the tool only returns the URL.
 - Registered once at user scope (`claude mcp add page-drop -s user …`). New
   sessions pick it up; running sessions only after a restart.
-- Lives in `~/Documents/page-drop-mcp` (this repo). Local git only for now;
-  pushing it to GitHub is Poraphit's call later (my call).
+- Lives in `~/Documents/page-drop-mcp` (this repo), published as a public
+  GitHub repo like secret-drop (Poraphit, 11 Nov).
 
 ## Left to the builder
 
